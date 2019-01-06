@@ -11,3 +11,4 @@ We aim to reach more people, and so, starting January 2019, the Uni-eX official 
 Uni-ex is a place where we carry out discussion about physics problems and we are on a journey of delving into the secrets of the cosmos .in this journey we will unravel the inner workings of the universe.
 
 > Uni-ex can be considered as a home for all physics and science enthusiasts
+<span style="color:blue">some *blue* text</span>
