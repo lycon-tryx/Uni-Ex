@@ -46,9 +46,9 @@ h2 {
 
 .main-content {
     width: 90%;
-    top: 38%;
+    
     left: 50%;
-    position: absolute;
+  
     -moz-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
